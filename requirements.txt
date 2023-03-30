@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+snscrape
+better-profanity
+textblob
+wordcloud
+
+#-e .
